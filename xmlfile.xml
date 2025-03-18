@@ -1,0 +1,9 @@
+<!-- This is a comment which is so long
+that it apears on three lines of the
+document before it ends with two - followed by >. -->
+<xml version="1.0" standalone="yes">
+    <person>
+        <name>Steven</name>
+        <age>35</age>
+    </person>
+</xml>
