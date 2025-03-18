@@ -1,3 +1,10 @@
+#DEBUG
+#
+xml-parser/xml_parser.dSYM
+
+#Binary
+xml_parser
+
 # Prerequisites
 *.d
 
