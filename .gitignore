@@ -1,9 +1,11 @@
 #DEBUG
-#
 xml-parser/xml_parser.dSYM
 
 #Binary
 xml_parser
+
+#MacOS
+.DS_Store
 
 # Prerequisites
 *.d
